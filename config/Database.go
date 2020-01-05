@@ -22,8 +22,8 @@ func BuildDBConfig() *DBConfig {
 		Host:     "0.0.0.0",
 		Port:     3306,
 		User:     "root",
-		DBName:   "todos",
-		Password: "mypassword",
+		DBName:   "test",
+		Password: "",
 	}
 	return &dbConfig
 }
