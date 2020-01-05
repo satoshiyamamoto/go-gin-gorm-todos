@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/jinzhu/gorm"
-	"github.com/satoshiyamamoto/go-todos/config"
-	"github.com/satoshiyamamoto/go-todos/models"
-	"github.com/satoshiyamamoto/go-todos/routes"
+	"github.com/satoshiyamamoto/go-gin-gorm-todos/config"
+	"github.com/satoshiyamamoto/go-gin-gorm-todos/models"
+	"github.com/satoshiyamamoto/go-gin-gorm-todos/routes"
 )
 
 var err error

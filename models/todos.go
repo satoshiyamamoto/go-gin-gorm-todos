@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/satoshiyamamoto/go-todos/config"
+	"github.com/satoshiyamamoto/go-gin-gorm-todos/config"
 )
 
 // fetch all todos at once

@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/satoshiyamamoto/go-todos/models"
+	"github.com/satoshiyamamoto/go-gin-gorm-todos/models"
 )
 
 // List all todos
