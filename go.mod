@@ -1,4 +1,4 @@
-module satoshiyamamoto/go-todos
+module github.com/satoshiyamamoto/go-gin-gorm-todos
 
 go 1.13
 
